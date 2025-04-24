@@ -33,10 +33,12 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/user-attachments/assets/654a96b7-70a5-45c7-9554-a63c6befe228)
 
 
-### Name:
-### Register Number:
+
+### Name: Tejasree.k
+### Register Number: 212224240168
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
